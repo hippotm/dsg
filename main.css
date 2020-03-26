@@ -11,5 +11,12 @@ body{
 }
 #IDL{
 	font-size: 100px;
-	
+	font-family: Tahoma;
+}
+#RG{
+	font-family: Tahoma;
+}
+#BT{
+	background: Yellow;
+	font-size: 50px;
 }
