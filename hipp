@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title></title>
+	<meta charset="UTF-8">
+	<title>FlexFamily</title>
 </head>
 <body>
+	<h1 align="center">Я люблю собак</h1>
 
 </body>
 </html>
